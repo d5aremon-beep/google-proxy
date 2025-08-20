@@ -1,7 +1,8 @@
 {
   "name": "google-proxy",
   "version": "1.0.0",
-  "type": "commonjs",
+  "main": "netlify/functions/api.js",
+  "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.7"
   }
